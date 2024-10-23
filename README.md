@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: email at Minhajul.H@Outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Enjoy Reading
+
 
 <!---
 Minhajul04/Minhajul04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
